@@ -1,0 +1,6 @@
+{
+  "name": "Pilkades Pamanukan Hilir 2026-2034",
+  "description": "Aplikasi Tata Cara Pemilihan Kepala Desa Pamanukan Hilir Periode Tahun 2026-2034 Kecamatan Pamanukan dengan verifikasi QR Code pemilih, surat suara digital, cetak bukti barcode, dan integrasi database Google Sheets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
